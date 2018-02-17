@@ -1,6 +1,7 @@
 ### Acknowledgments
 Portions of this Zefenify Software may utilize the following copyrighted material, the use of which is hereby acknowledged.
 
+- [Feather Icons](https://feathericons.com)
 - [axios@0.16.2](https://github.com/mzabriskie/axios)
 - [electron@1.7.8](https://github.com/electron/electron)
 - [emotion@8.0.5](https://github.com/tkh44/emotion/tree/master/packages/emotion)
